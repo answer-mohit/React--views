@@ -1,0 +1,10 @@
+.review{
+    box-shadow:10px 10px 20px rgb(105, 91, 91) ;
+border-radius:5px ;
+}
+.image{
+    max-width:300px ;
+    height:200px;
+    justify-content: center;
+border-radius: 5px;
+}
